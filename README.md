@@ -6,6 +6,8 @@ The surveys are incredibly informative, but they are also incredibly long. A typ
 
 The present competition, entitled "Pover-T Tests" is about predicting poverty at the household level by building a great classification model. The strongest poverty predictors could be used by statisticians at The World Bank to design new, shorter, equally informative surveys. With these improvements, The World Bank can more easily track progress towards their ambitious and inspiring goal.
 
+This is a team effort: I am working with Elie Gerschel and Elliot Motte on this competition. 
+
 More info on: https://www.drivendata.org/competitions/50/worldbank-poverty-prediction/page/99/
 
 Current rank: 180/1589
